@@ -7,7 +7,7 @@
     Passionate about <strong>quality assurance, test automation, and software excellence</strong>.  
     I combine a strong background in <strong>QA Engineering</strong> with years of experience in 
     <strong>training, coaching, and leadership</strong> across international companies.  
-    My mission: to test and build reliable, scalable, and user-focused software.  
+    My mission: To test and build reliable, scalable, and user-focused software.  
   </p>
 </div>
 
@@ -68,16 +68,16 @@ Validated cart, checkout, and order management ensuring data integrity.</p>
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/miguelb11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:miguel@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/miguelb11"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+<a href="mailto:miguelbautistag@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+<a href="https://github.com/miguelbautistag"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/miguelb11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelb11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelb11&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/miguelbautistag">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelbautistag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelbautistag&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
