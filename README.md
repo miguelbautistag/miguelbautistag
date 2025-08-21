@@ -1,3 +1,6 @@
+<!-- Banner -->
+![Banner](https://github.com/miguelbautistag/miguelbautistag/blob/main/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(3).png)
+
 <div align="center">
   <h1>👋 Hi, I'm Miguel — QA Engineer & Software Tester</h1>
   <p>
@@ -35,26 +38,52 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📊 TripleTen CRM Testing Project</h3>
+<h3 align="center">🚖 Urban Routes - Automated Taxi Booking</h3>
 <div align="center">
-<a href="https://github.com/YourUser/CRM-Testing" target="_blank">
+<a href="https://github.com/miguelbautistag/qa-project-Urban-Routes" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" />
 </a>
-<p>Designed and executed test cases for a CRM platform.  
-Performed manual & automated tests (Selenium + Python).  
-Delivered bug reports, ensured data integrity, and improved test coverage.</p>
+<p>End-to-end automated tests for a taxi booking web app.  
+Covered complete user flow: address entry, comfort fare, driver notes, and payment validation.  
+Tools: <strong>Selenium, Python, Pytest</strong>.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">🛒 E-commerce QA Project</h3>
+<h3 align="center">📊 Urban Grocers - API & Web Testing</h3>
 <div align="center">
-<a href="https://github.com/YourUser/Ecommerce-QA" target="_blank">
+<a href="https://github.com/miguelbautistag/qa-project-Urban-Grocers-app-es" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Project-green?style=for-the-badge&logo=github" />
 </a>
-<p>Tested end-to-end workflows for an online store.  
-Covered checkout, payment systems, and API validation.  
-Used Postman, Jest, and SQL queries to validate database accuracy.</p>
+<p>Designed and executed manual and automated tests for a grocery delivery platform.  
+Validated API responses, order processing, and data integrity.  
+Tools: <strong>Postman, Selenium, Python, SQL</strong>.</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🛒 E-commerce QA Project</h3>
+<div align="center">
+<a href="https://github.com/miguelbautistag/qa-project-ecommerce" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-purple?style=for-the-badge&logo=github" />
+</a>
+<p>Tested checkout and payment systems for an e-commerce platform.  
+Performed database validations and API testing for transactions.  
+Tools: <strong>Jest, Postman, SQL</strong>.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">📱 Mobile QA — To-Do App</h3>
+<div align="center">
+<a href="https://github.com/miguelbautistag/qa-project-mobile-todo" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-orange?style=for-the-badge&logo=github" />
+</a>
+<p>QA project for a cross-platform to-do app.  
+Validated UI/UX consistency, task creation, and notifications.  
+Tools: <strong>Cypress, JavaScript</strong>.</p>
 </div>
 </td>
 </tr>
@@ -66,15 +95,15 @@ Used Postman, Jest, and SQL queries to validate database accuracy.</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/miguelb11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:miguel@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/miguelb11"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/miguelbautistag"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/miguelb11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelb11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelb11&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/miguelbautistag">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelbautistag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelbautistag&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
