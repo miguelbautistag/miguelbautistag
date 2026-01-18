@@ -5,13 +5,12 @@
 <div align="center">
   <h1>👋 Hi, I'm Miguel — QA Engineer & Software Tester</h1>
   <p>
-    <strong>Quality Assurance | Test Automation | Software Excellence</strong>
+    <strong>Manual Testing • API Testing • UI/API Automation • Backend Validation</strong>
   </p>
   <p>
-    I combine a strong technical foundation in QA Engineering with a background in Coaching, Training and Leadership. 
-    My focus is on building robust testing strategies that ensure scalable and user-centric software.
+    Passionate about delivering high-quality software through structured testing, sharp bug hunting, and great team collaboration.<br>
+    TripleTen QA Bootcamp graduate (2025) — 10 completed projects (including final capstone), always active.
   </p>
-
   <a href="https://www.linkedin.com/in/miguelb11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:miguelbautistag@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/miguelbautistag"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
@@ -19,97 +18,50 @@
 
 ---
 
-## 🚀 Professional Summary
-- 🎯 **Transitioned** from Learning & Development (Amazon/Scotiabank) into Software Quality Engineering.
-- 🛠️ **Expertise** in Manual Testing, Test Case Design, and Automation Frameworks.
-- 🧠 **QA Mindset:** Specialized in Boundary Value Analysis, Equivalence Partitioning, and Decision Table logic.
-- 🌍 **Open to remote opportunities worldwide** (Europe, US, LATAM).
+## 🚀 At a Glance
+- 🎯 TripleTen QA Engineering Bootcamp (Jan–Jun 2025) + ongoing portfolio (active January 2026)
+- 🛠️ **200+ test cases** designed & executed • **55+ bugs** found & reported (Jira-style)
+- 🌍 **Open to remote** LATAM / International opportunities
 
----
-
-## 🧑‍💻 Tech Stack & QA Arsenal
-
-| **Category** | **Tools & Technologies** |
-| :--- | :--- |
-| **Automation** | Selenium (Python/Java), Cypress, Pytest, Jest, JUnit |
-| **API Testing** | Postman, REST Assured |
-| **Languages** | JavaScript, Python, SQL, HTML/CSS |
-| **Tools & Management** | Jira, Confluence, TestRail, GitHub Actions (CI/CD) |
-| **Methodologies** | Agile (Scrum/Kanban), Shift-Left Testing, TDD |
+## 🧑‍💻 Tech Stack
+| Category              | Tools & Technologies                              |
+|-----------------------|---------------------------------------------------|
+| **Automation**        | Python, Pytest, Selenium WebDriver, Page Object Model (POM), requests |
+| **API Testing**       | Postman, Newman, REST APIs (status codes, schemas, payloads) |
+| **Manual & Mobile**   | Checklists, ECP/BVA, Exploratory, Android Emulator |
+| **Databases & Backend** | SQL (JOINs, GROUP BY, HAVING, CASE), PostgreSQL/MySQL, Linux CLI (grep/mkdir) |
+| **Tools**             | Jira, Git/GitHub, Chrome DevTools, Figma, Draw.io |
+| **Methodologies**     | Agile/Scrum, Regression, Defect Lifecycle         |
 
 ---
 
 ## 📂 Featured Projects
+10 completed projects demonstrating progression: manual → analysis → mobile → API → backend → full automation → capstone.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🕵️‍♂️ Sauce Demo - Advanced QA Diagnostic</h3>
-      <div align="center">
-        <a href="https://github.com/miguelbautistag/saucedemo-qa-diagnostic" target="_blank">
-          <img src="https://img.shields.io/badge/Manual_Testing-View_Project-green?style=for-the-badge&logo=googlesheets" />
-        </a>
-      </div>
-      <p align="justify">
-        A comprehensive functional diagnostic of the Swag Labs platform focusing on the <strong>'error_user'</strong> profile.
-        <ul>
-          <li><strong>Deliverables:</strong> 20+ High-level Test Cases and 5 Critical Bug Reports.</li>
-          <li><strong>Bug Tracking:</strong> Integrated with <strong>Jira</strong> to manage the full bug lifecycle.</li>
-          <li><strong>Skills:</strong> Regression testing, Logic verification, and Professional Defect Reporting.</li>
-        </ul>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚖 Urban Routes - Selenium Automation</h3>
-      <div align="center">
-        <a href="https://github.com/miguelbautistag/qa-project-Urban-Routes-es" target="_blank">
-          <img src="https://img.shields.io/badge/Automation-View_Project-orange?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <p align="justify">
-        Automated end-to-end taxi request flow using <strong>Selenium + Python</strong>.
-        <ul>
-          <li>Covered complex UI interactions: address input, fare selection, and driver messaging.</li>
-          <li>Implemented Page Object Model (POM) for better maintainability.</li>
-          <li>Focus: Reliable E2E tests for mission-critical user flows.</li>
-        </ul>
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Urban Grocers - API & Web Testing</h3>
-      <div align="center">
-        <a href="https://github.com/miguelbautistag/qa-project-Urban-Grocers-app-es" target="_blank">
-          <img src="https://img.shields.io/badge/Hybrid-View_Project-blue?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <p align="justify">
-        Designed and executed testing for a grocery delivery CRM platform.
-        <ul>
-          <li>Validated cart logic, checkout flows, and database integrity.</li>
-          <li>Used <strong>Postman</strong> for API validation and <strong>Python</strong> for automated components.</li>
-          <li>Combined manual exploration with automated verification scripts.</li>
-        </ul>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Continuous Improvement</h3>
-      <div align="center">
-         <img src="https://img.shields.io/badge/Status-Learning-lightgrey?style=for-the-badge" />
-      </div>
-      <p align="justify">
-        <em>Stay tuned! Currently building a <strong>Performance Testing</strong> project using JMeter and a <strong>CI/CD pipeline</strong> project using GitHub Actions.</em>
-      </p>
-    </td>
-  </tr>
-</table>
+| #  | Project                               | Focus                              | Key Achievements                              | Link |
+|----|---------------------------------------|------------------------------------|-----------------------------------------------|------|
+| 1  | **Final Capstone: Urban Scooter**     | Web + Mobile + API QA              | 199+ cases/checklist items • 33 real bugs • Full lifecycle | [View →](https://github.com/miguelbautistag/sprint9-final-project-urban-scooter) |
+| 2  | **Sprint 8: Urban Routes E2E Auto**   | Full UI Automation (Selenium)      | Complete taxi flow (8 scenarios) + POM + network log handling | [View →](https://github.com/miguelbautistag/sprint8-urban-routes-automation) |
+| 3  | **Sprint 7: Urban Grocers API Auto**  | Python API Automation (pytest)     | 9 modular tests • 4 real API bugs caught      | [View →](https://github.com/miguelbautistag/sprint7-urban-grocers-api-automation) |
+| 4  | **SauceDemo Diagnostic**              | Manual Functional + Regression     | 20+ test cases • 5 critical bugs (Jira)       | [View →](https://github.com/miguelbautistag/saucedemo-qa-diagnostic) |
+| 5  | **Sprint 1: Urban Routes Regression** | Manual Regression Testing          | Map/zoom/Street View • 9 bugs                 | [View →](https://github.com/miguelbautistag/sprint1-urban-routes-regression) |
+| 6  | **Sprint 2: Analysis & Test Design**  | Equivalence Classes / BVA          | Form field analysis & boundary testing        | [View →](https://github.com/miguelbautistag/sprint2-urban-routes-analysis-test-design) |
+| 7  | **Sprint 3: Car-Sharing Manual**      | Checklist + Functional Manual      | 32 test cases • 15 bugs found                 | [View →](https://github.com/miguelbautistag/sprint3-manual-testing-car-sharing) |
+| 8  | **Sprint 4: Urban Grocers API**       | Manual API (Postman)               | 48 cases • 8 bugs (kit limits, delivery)      | [View →](https://github.com/miguelbautistag/sprint4-urban-grocers-API-testing) |
+| 9  | **Sprint 5: Urban.Lunch Mobile**      | Manual Mobile (Android Emulator)   | 52 test cases • 5 bugs (tracking, totals)     | [View →](https://github.com/miguelbautistag/sprint5-urban-lunch-mobile-testing) |
+| 10 | **Sprint 6: Logs + Database**         | Linux Logs + SQL Validation        | Log filtering (grep) + 4 advanced SQL exercises | [View →](https://github.com/miguelbautistag/sprint6-logs-linux-database-analysis) |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelbautistag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelbautistag&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+---
+
+Thanks for visiting!  
+Every repo contains detailed READMEs, test artifacts (Sheets/Docs), screenshots, and evidence of full QA lifecycle (planning → execution → defects → regression).  
+
+Feel free to explore — I'm always open to QA/Automation roles where quality and collaboration matter. Let's connect! 🚀
