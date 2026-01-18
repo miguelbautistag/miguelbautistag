@@ -3,132 +3,113 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hi, I'm Miguel — QA Engineer</h1>
+  <h1>👋 Hi, I'm Miguel — QA Engineer & Software Tester</h1>
   <p>
-    <strong>Manual Testing • API Testing • Automation Fundamentals • Quality First</strong>
+    <strong>Quality Assurance | Test Automation | Software Excellence</strong>
   </p>
   <p>
-    QA Engineer focused on delivering reliable, well-tested software through structured manual testing,
-    solid API validation, and maintainable UI automation fundamentals.
-    I care deeply about clear documentation, reproducible bugs, and protecting critical user flows.
-  </p>
-  <p>
-    I bring a strong background in <strong>Project Management, Stakeholder Coordination, Training, and Process Improvement</strong>
-    (Amazon & Scotiabank), which translates into clear defect communication, strong analytical thinking,
-    and a quality-driven mindset.
+    I combine a strong technical foundation in QA Engineering with a background in Coaching, Training and Leadership. 
+    My focus is on building robust testing strategies that ensure scalable and user-centric software.
   </p>
 
-  <a href="https://www.linkedin.com/in/miguelb11/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:miguelbautistag@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/miguelb11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:miguelbautistag@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/miguelbautistag"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </div>
 
 ---
 
-## 🌟 Quick Facts
-- QA Engineering Bootcamp — TripleTen (2025)
-- 10+ end-to-end QA projects completed
-- 200+ test cases designed • 50+ documented defects
-- Open to **remote QA opportunities** (LATAM / Global)
+## 🚀 Professional Summary
+- 🎯 **Transitioned** from Learning & Development (Amazon/Scotiabank) into Software Quality Engineering.
+- 🛠️ **Expertise** in Manual Testing, Test Case Design, and Automation Frameworks.
+- 🧠 **QA Mindset:** Specialized in Boundary Value Analysis, Equivalence Partitioning, and Decision Table logic.
+- 🌍 **Open to remote opportunities worldwide** (Europe, US, LATAM).
 
 ---
 
-## 🛠️ Core QA Skills
+## 🧑‍💻 Tech Stack & QA Arsenal
 
-**Manual Testing**  
-Test case design, checklists, exploratory testing, regression testing, functional validation  
-
-**API Testing**  
-Postman, REST APIs, status codes, request/response validation, error handling  
-
-**Automation (Foundational)**  
-Python, Pytest, Selenium WebDriver, Page Object Model (POM)  
-
-**Backend & Systems**  
-SQL queries, Linux CLI, logs analysis, data validation  
-
-**Tools & Workflow**  
-Jira, Git/GitHub, Agile fundamentals  
+| **Category** | **Tools & Technologies** |
+| :--- | :--- |
+| **Automation** | Selenium (Python/Java), Cypress, Pytest, Jest, JUnit |
+| **API Testing** | Postman, REST Assured |
+| **Languages** | JavaScript, Python, SQL, HTML/CSS |
+| **Tools & Management** | Jira, Confluence, TestRail, GitHub Actions (CI/CD) |
+| **Methodologies** | Agile (Scrum/Kanban), Shift-Left Testing, TDD |
 
 ---
 
-## 📌 Top QA Projects (Most Relevant First)
+## 📂 Featured Projects
 
-<div align="center">
-  <table cellspacing="10" cellpadding="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/miguelbautistag/sprint9-final-project-urban-scooter">
-          <img src="https://img.shields.io/badge/Final%20Capstone-Urban%20Scooter-8A2BE2?style=for-the-badge&logo=rocket" /><br>
-          <small>Web + Mobile + API • End-to-end QA coverage</small>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕵️‍♂️ Sauce Demo - Advanced QA Diagnostic</h3>
+      <div align="center">
+        <a href="https://github.com/miguelbautistag/saucedemo-qa-diagnostic" target="_blank">
+          <img src="https://img.shields.io/badge/Manual_Testing-View_Project-green?style=for-the-badge&logo=googlesheets" />
         </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/miguelbautistag/sprint8-urban-routes-automation">
-          <img src="https://img.shields.io/badge/UI%20Automation-Urban%20Routes-orange?style=for-the-badge&logo=python" /><br>
-          <small>Selenium + POM • Full booking flow</small>
+      </div>
+      <p align="justify">
+        A comprehensive functional diagnostic of the Swag Labs platform focusing on the <strong>'error_user'</strong> profile.
+        <ul>
+          <li><strong>Deliverables:</strong> 20+ High-level Test Cases and 5 Critical Bug Reports.</li>
+          <li><strong>Bug Tracking:</strong> Integrated with <strong>Jira</strong> to manage the full bug lifecycle.</li>
+          <li><strong>Skills:</strong> Regression testing, Logic verification, and Professional Defect Reporting.</li>
+        </ul>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚖 Urban Routes - Selenium Automation</h3>
+      <div align="center">
+        <a href="https://github.com/miguelbautistag/qa-project-Urban-Routes-es" target="_blank">
+          <img src="https://img.shields.io/badge/Automation-View_Project-orange?style=for-the-badge&logo=github" />
         </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center">
-        <a href="https://github.com/miguelbautistag/sprint7-urban-grocers-api-automation">
-          <img src="https://img.shields.io/badge/API%20Automation-Urban%20Grocers-blue?style=for-the-badge&logo=python" /><br>
-          <small>pytest + requests • Automated API checks</small>
+      </div>
+      <p align="justify">
+        Automated end-to-end taxi request flow using <strong>Selenium + Python</strong>.
+        <ul>
+          <li>Covered complex UI interactions: address input, fare selection, and driver messaging.</li>
+          <li>Implemented Page Object Model (POM) for better maintainability.</li>
+          <li>Focus: Reliable E2E tests for mission-critical user flows.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Urban Grocers - API & Web Testing</h3>
+      <div align="center">
+        <a href="https://github.com/miguelbautistag/qa-project-Urban-Grocers-app-es" target="_blank">
+          <img src="https://img.shields.io/badge/Hybrid-View_Project-blue?style=for-the-badge&logo=github" />
         </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/miguelbautistag/sprint4-urban-grocers-API-testing">
-          <img src="https://img.shields.io/badge/API%20Testing-Postman-lightblue?style=for-the-badge&logo=postman" /><br>
-          <small>Manual API validation & backend logic</small>
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center">
-        <a href="https://github.com/miguelbautistag/saucedemo-qa-diagnostic">
-          <img src="https://img.shields.io/badge/Manual%20QA-SauceDemo-green?style=for-the-badge&logo=bug" /><br>
-          <small>Exploratory testing • Critical bug analysis</small>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/miguelbautistag/sprint5-urban-lunch-mobile-testing">
-          <img src="https://img.shields.io/badge/Mobile%20Testing-Android-purple?style=for-the-badge&logo=android" /><br>
-          <small>Functional & regression mobile testing</small>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+      </div>
+      <p align="justify">
+        Designed and executed testing for a grocery delivery CRM platform.
+        <ul>
+          <li>Validated cart logic, checkout flows, and database integrity.</li>
+          <li>Used <strong>Postman</strong> for API validation and <strong>Python</strong> for automated components.</li>
+          <li>Combined manual exploration with automated verification scripts.</li>
+        </ul>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Continuous Improvement</h3>
+      <div align="center">
+         <img src="https://img.shields.io/badge/Status-Learning-lightgrey?style=for-the-badge" />
+      </div>
+      <p align="justify">
+        <em>Stay tuned! Currently building a <strong>Performance Testing</strong> project using JMeter and a <strong>CI/CD pipeline</strong> project using GitHub Actions.</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Additional QA Projects (Foundations & Analysis)
-
-- sprint1-urban-routes-regression  
-- sprint2-urban-routes-analysis-test-design  
-- sprint3-manual-testing-car-sharing  
-- sprint6-logs-linux-database-analysis  
-
-👉 **Full repository list:**  
-https://github.com/miguelbautistag?tab=repositories
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelbautistag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelbautistag&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
----
-
-Thanks for visiting 🚀  
-Each repository contains detailed READMEs, test artifacts, screenshots, and evidence of the full QA lifecycle.
-
-Always open to conversations about QA, testing strategies, and growth opportunities.
