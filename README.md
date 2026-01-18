@@ -30,7 +30,7 @@
 | **Automation**        | Python, Pytest, Selenium WebDriver, Page Object Model (POM), requests |
 | **API Testing**       | Postman, Newman, REST APIs (status codes, schemas, payloads)  |
 | **Manual & Mobile**   | Checklists, Exploratory, Regression, ECP/BVA, Android Emulator |
-| **Databases & Backend** | SQL (JOINs, GROUP BY, HAVING, CASE), Linux CLI (grep/mkdir)   |
+| **Databases & Backend** | SQL (JOINs, GROUP BY, HAVING, CASE), Linux CLI   |
 | **Tools & Management**| Jira, Git/GitHub, Chrome DevTools, Figma                      |
 | **Methodologies**     | Agile/Scrum, Defect Lifecycle, Shift-Left Testing             |
 
