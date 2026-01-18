@@ -19,8 +19,8 @@
 ---
 ## 🚀 Professional Summary
 - 🎯 TripleTen QA Engineering Bootcamp graduate (2025) — 10 projects completed
-- 🛠️ Expertise in Manual Testing, API Testing, UI/API Automation, and Backend Validation
-- 🧠 QA Mindset: Specialized in ECP, BVA, Decision Tables, and full defect lifecycle
+- 🛠️ Strong hands-on experience in Manual Testing, API Testing (Postman + automation), UI Automation, and Backend Validation
+- 🧠 QA Mindset: Specialized in ECP, BVA, Decision Tables, and full defect lifecycle (200+ test cases • 55+ bugs found)
 - 🌍 Open to remote opportunities worldwide (LATAM, US, Europe)
 
 ---
@@ -46,10 +46,10 @@
         </a>
       </div>
       <p align="justify">
-        Multi-platform QA masterpiece: Web + Mobile + API testing of Urban Scooter rental service.
+        Multi-platform QA capstone: Web + Mobile + API testing of Urban Scooter rental service.
         <ul>
           <li><strong>Deliverables:</strong> 199+ test items/checklist cases • 33 real bugs reported (Jira-style)</li>
-          <li><strong>Skills:</strong> Full lifecycle, mind maps, ECP/BVA, decision tables, UI/API validation</li>
+          <li><strong>Skills:</strong> Full QA lifecycle, mind maps, ECP/BVA, decision tables, UI/API validation</li>
           <li><strong>Focus:</strong> Comprehensive coverage across web, Android, and backend endpoints</li>
         </ul>
       </p>
@@ -108,15 +108,18 @@
   </tr>
 </table>
 
----
+**+ 6 more projects** (early sprints, analysis, mobile, logs/database) — check them all here:  
+[View all repositories →](https://github.com/miguelbautistag?tab=repositories)
 
+---
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelbautistag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelbautistag&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-Thanks for visiting!  
-Every repo contains detailed READMEs, test artifacts (Sheets/Docs), screenshots, and evidence of full QA lifecycle (planning → execution → defects → regression).  
+---
 
+**Thanks for visiting!**  
+Every repo contains detailed READMEs, test artifacts (Sheets/Docs), screenshots, and evidence of full QA lifecycle (planning → execution → defects → regression).  
 Feel free to explore — I'm always open to QA/Automation roles where quality and collaboration matter. Let's connect! 🚀
