@@ -14,6 +14,7 @@
   <a href="mailto:miguelbautistag@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/miguelbautistag"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </div>
+
 ---
 ## 🚀 Professional Summary
 - 🎯 TripleTen QA Engineering Bootcamp graduate (2025) — 10 projects completed
@@ -126,12 +127,14 @@
 
 **+ 6 more projects** (early sprints, analysis, mobile, logs/database) — check them all here:
 [View all repositories →](https://github.com/miguelbautistag?tab=repositories)
+
 ---
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelbautistag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelbautistag&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
 ---
 **Thanks for visiting!**
 Every repo contains detailed READMEs, test artifacts (Sheets/Docs), screenshots, and evidence of full QA lifecycle (planning → execution → defects → regression).
