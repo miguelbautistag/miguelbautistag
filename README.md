@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/miguelbautistag/miguelbautistag/main/Banner.png" width="100%" alt="Miguel Bautista Gómez QA Automation Banner" />
+</div>
 
 <div align="center">
 
