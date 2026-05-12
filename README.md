@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/miguelbautistag/miguelbautistag/main/linkedin-banner.png" width="100%" alt="Miguel Bautista Gómez QA Automation Banner" />
+  <img src="https://raw.githubusercontent.com/miguelbautistag/miguelbautistag/main/QA_automation_banner.png" width="100%" alt="Miguel Bautista Gómez QA Automation Banner" />
 </div>
 
 <div align="center">
