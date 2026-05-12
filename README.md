@@ -1,10 +1,5 @@
 <div align="center">
-  <img 
-    src="<img width="1774" height="887" alt="ChatGPT Image May 12, 2026, 01_38_56 PM" src="https://github.com/user-attachments/assets/1f25b373-4259-4d74-8bc9-d323832a14a3" />
-" 
-    width="100%" 
-    alt="Miguel Bautista Gómez QA Automation Banner"
-  />
+  <img src="https://raw.githubusercontent.com/miguelbautistag/miguelbautistag/main/linkedin-banner.png" width="100%" alt="Miguel Bautista Gómez QA Automation Banner" />
 </div>
 
 <div align="center">
